@@ -42,6 +42,8 @@
 
 * lmodal : the number of verbs in modal form (would could might)
 
+* doc, rt, tw : document text
+
 Deontic futures can be found by using the function ```findd``` in the module tp_utils.
 The results are as good as the rules one defines.
 A total of 5762 deontic futures were found in 1592 documents in the cases corpus.
