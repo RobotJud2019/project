@@ -13,12 +13,14 @@
 
 
 ### reuters:
-* ```doreu4.py``` or ```doreu.ipynb```: processes the reuters dataset in nltk.corpus, extracts the BOW and the linguistic features and writes to pickle. Displays a plot at the end.
+* ```doreu.py``` or ```doreu.ipynb```: processes the reuters dataset in nltk.corpus, extracts the BOW and the linguistic features and writes to pickle. Displays a plot at the end.
 
 
 
 ### twitter:
-* ```dotw2.py``` or ```dotw.ipynb```: processes the twitter dataset in nltk.corpus, extracts the BOW and the linguistic features and writes to pickle. Displays a plot at the end.
+* ```dotw.py``` or ```dotw.ipynb```: processes the twitter dataset in nltk.corpus, extracts the BOW and the linguistic features and writes to pickle. Displays a plot at the end.
+
+#### A Jupyter notebook and a python script haveing the same name have the same functionalities.
 
 ### pickles in subfolder "data": 
 * cases corpus:			```pj_df_full.20190629_095112.pkl```
