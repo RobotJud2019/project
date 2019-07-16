@@ -78,5 +78,11 @@ source code tested using python 3.5
 		spacy   2.0.18
 		nltk   3.3
 		tweet-preprocessor 0.5.0
+	for analysis 
+	statsmodels 0.9.0    (attention: conflicts with scipy 1.3.0, works with scipy 1.2.0)
+	linearmodels	4.12
+	skll		1.5.3
+	xgboost	0.90
+	skater	1.1.2	
 ````
 
