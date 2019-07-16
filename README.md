@@ -70,19 +70,19 @@ rules to find the linguistis features are defined in ```tp_utils.py```: ```spacy
 
 ```
 source code tested using python 3.5
-        pandas	0.24.2
-		numpy   1.16.2
-		scipy   1.3.0
-		matplotlib 2.2.2
-		liwc    0.4.1
-		spacy   2.0.18
-		nltk   3.3
+        	pandas		0.24.2
+		numpy   	1.16.2
+		scipy   	1.3.0
+		matplotlib 	2.2.2
+		liwc   		0.4.1
+		spacy   	2.0.18
+		nltk   		3.3
 		tweet-preprocessor 0.5.0
 	for analysis 
-	statsmodels 0.9.0    (attention: conflicts with scipy 1.3.0, works with scipy 1.2.0)
-	linearmodels	4.12
-	skll		1.5.3
-	xgboost	0.90
-	skater	1.1.2	
+		statsmodels	 0.9.0    (attention: conflicts with scipy 1.3.0, works with scipy 1.2.0)
+		linearmodels	4.12
+		skll		1.5.3
+		xgboost		0.90
+		skater		1.1.2	
 ````
 
