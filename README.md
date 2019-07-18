@@ -85,5 +85,6 @@ source code tested using python 3.5
 		xgboost		0.90
 		skater		1.1.2	
 		textblob	0.15.3
+		seaborn		0.9.0
 ````
 
