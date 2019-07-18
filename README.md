@@ -48,7 +48,7 @@
 
 Deontic futures can be found by using the function ```findd``` in the module tp_utils.
 The results are as good as the rules one defines.
-A total of 5762 deontic futures were found in 1592 documents in the cases corpus.
+A total of 3271 deontic futures were found in 1592 documents in the cases corpus.
 <br>
 Example
 
