@@ -20,10 +20,12 @@
 ### twitter:
 * ```dotw.py``` or ```dotw.ipynb```: processes the twitter dataset in nltk.corpus, extracts the BOW and the linguistic features and writes to pickle. Displays a plot at the end.
 
-#### A Jupyter notebook and a python script haveing the same name have the same functionalities.
+#### A Jupyter notebook and a python script having the same name have the same functionalities.
+
+#### For a graphical overview of the data flow see Flow.pdf.
 
 ### pickles in subfolder "data": 
-* cases corpus:			```pj_df_full.20190629_095112.pkl```
+* cases corpus:			```pj_df_full.20190629_095112.pkl``` (pickle uploaded to polybox)
 * political speeches:		```pj_demo_dfmo_full.20190629_163240.pkl```	(rawtext uploaded to polybox)
 * reuters data from the nltk corpus : ```pj_dfre_full.20190629_115819.pkl```
 * twitter data from the nltk corpus : ```pj_dftw_full.20190630_005652.pkl```
